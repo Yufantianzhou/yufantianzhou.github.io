@@ -58,6 +58,13 @@
   </url>
   
   <url>
+    <loc>http://yufantianzhou.github.io/categories/how-to/</loc>
+    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://yufantianzhou.github.io/post/docs/how-to-contribute/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -87,13 +94,6 @@
   
   <url>
     <loc>http://yufantianzhou.github.io/tags/</loc>
-    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://yufantianzhou.github.io/categories/tutorials/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
