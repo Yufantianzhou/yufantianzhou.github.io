@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://yufantianzhou.github.io/sitemap.xml
+Sitemap: https://yufantianzhou.github.io/sitemap.xml
