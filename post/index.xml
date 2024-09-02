@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Yu&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yufantianzhou.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 13:39:45 +0800</lastBuildDate><atom:link href="https://yufantianzhou.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jane Theme Preview</title>
       <link>https://yufantianzhou.github.io/post/jane-theme-preview/</link>
@@ -15,6 +15,15 @@
       <guid>https://yufantianzhou.github.io/post/jane-theme-preview/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is created by &lt;a href=&#34;http://daringfireball.net/&#34;&gt;Daring Fireball&lt;/a&gt;, the original guideline is &lt;a href=&#34;http://daringfireball.net/projects/markdown/syntax&#34;&gt;here&lt;/a&gt;. Its syntax, however, varies between different parsers or editors.&lt;/p&gt;
 &lt;p&gt;Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Totest</title>
+      <link>https://yufantianzhou.github.io/post/cpp/totest/</link>
+      <pubDate>Sun, 01 Sep 2024 13:39:45 +0800</pubDate>
+      
+      <guid>https://yufantianzhou.github.io/post/cpp/totest/</guid>
+      <description></description>
     </item>
     
     <item>
