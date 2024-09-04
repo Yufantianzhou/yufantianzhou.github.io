@@ -16,36 +16,50 @@
   </url>
   
   <url>
+    <loc>https://yufantianzhou.github.io/post/cpp/1/</loc>
+    <lastmod>2024-09-02T20:54:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://yufantianzhou.github.io/categories/</loc>
-    <lastmod>2024-09-01T13:39:45+08:00</lastmod>
+    <lastmod>2024-09-02T20:54:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yufantianzhou.github.io/tags/cpp/</loc>
-    <lastmod>2024-09-01T13:39:45+08:00</lastmod>
+    <lastmod>2024-09-02T20:54:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yufantianzhou.github.io/categories/cpp/</loc>
-    <lastmod>2024-09-01T13:39:45+08:00</lastmod>
+    <lastmod>2024-09-02T20:54:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yufantianzhou.github.io/post/</loc>
-    <lastmod>2024-09-01T13:39:45+08:00</lastmod>
+    <lastmod>2024-09-02T20:54:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yufantianzhou.github.io/tags/</loc>
-    <lastmod>2024-09-01T13:39:45+08:00</lastmod>
+    <lastmod>2024-09-02T20:54:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yufantianzhou.github.io/</loc>
+    <lastmod>2024-09-02T20:54:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -59,13 +73,6 @@
   
   <url>
     <loc>https://yufantianzhou.github.io/post/cpp/totest/</loc>
-    <lastmod>2024-09-01T13:39:45+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yufantianzhou.github.io/</loc>
     <lastmod>2024-09-01T13:39:45+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
