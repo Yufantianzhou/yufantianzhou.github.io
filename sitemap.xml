@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yufantianzhou.github.io/post/jane-theme-preview/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://yufantianzhou.github.io/about/</loc>
     <lastmod>2024-09-01T12:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -220,14 +213,14 @@
   
   <url>
     <loc>https://yufantianzhou.github.io/tags/shortcodes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://yufantianzhou.github.io/categories/shortcodes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -270,13 +263,6 @@
   <url>
     <loc>https://yufantianzhou.github.io/tags/tag-11/</loc>
     <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yufantianzhou.github.io/categories/docs/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
