@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yu&#39;s blog</title>
+    <title>YU&#39;s Blog</title>
     <link>https://yufantianzhou.github.io/</link>
-    <description>Recent content on Yu&#39;s blog</description>
+    <description>Recent content on YU&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <managingEditor>yufantianzhou@outlook.com (yufantianzhou)</managingEditor>
-    <webMaster>yufantianzhou@outlook.com (yufantianzhou)</webMaster>
-    <lastBuildDate>Mon, 02 Sep 2024 20:54:41 +0800</lastBuildDate>
+    <managingEditor>me@example.com (yufantianzhou)</managingEditor>
+    <webMaster>me@example.com (yufantianzhou)</webMaster>
     
         <atom:link href="https://yufantianzhou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +16,7 @@
       <title>About</title>
       <link>https://yufantianzhou.github.io/about/</link>
       <pubDate>Sun, 01 Sep 2024 12:00:00 +0800</pubDate>
-      <author>yufantianzhou@outlook.com (yufantianzhou)</author>
+      <author>me@example.com (yufantianzhou)</author>
       <guid>https://yufantianzhou.github.io/about/</guid>
       
         <description>&lt;h1 id=&#34;about-the-site&#34;&gt;About the site&lt;/h1&gt;
@@ -29,34 +28,6 @@
 &lt;li&gt;用于记录学习思考所得&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://yufantianzhou.github.io/post/cpp/1/</link>
-      <pubDate>Mon, 02 Sep 2024 20:54:41 +0800</pubDate>
-      <author>yufantianzhou@outlook.com (yufantianzhou)</author>
-      <guid>https://yufantianzhou.github.io/post/cpp/1/</guid>
-      
-        <description>&lt;h1 id=&#34;1&#34;&gt;1&lt;/h1&gt;
-&lt;p&gt;lskdjf&lt;/p&gt;
-&lt;h1 id=&#34;2&#34;&gt;2&lt;/h1&gt;
-&lt;p&gt;llk&lt;/p&gt;
-&lt;h1 id=&#34;3&#34;&gt;3&lt;/h1&gt;
-&lt;p&gt;this is a test for toc&lt;/p&gt;
-&lt;h1 id=&#34;4&#34;&gt;4&lt;/h1&gt;
-&lt;p&gt;this is a test for toc&lt;/p&gt;
-&lt;h1 id=&#34;5&#34;&gt;5&lt;/h1&gt;
-&lt;p&gt;if you want to add a comment, you can use the following code:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {
-    &lt;span style=&#34;color:#75715e&#34;&gt;// your code here
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;6&#34;&gt;6&lt;/h1&gt;
-&lt;p&gt;end not&lt;/p&gt;</description>
       
     </item>
     

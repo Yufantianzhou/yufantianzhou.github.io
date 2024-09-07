@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Yu&#39;s blog</title>
+    <title>Categories on YU&#39;s Blog</title>
     <link>https://yufantianzhou.github.io/categories/</link>
-    <description>Recent content in Categories on Yu&#39;s blog</description>
+    <description>Recent content in Categories on YU&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 02 Sep 2024 20:54:41 +0800</lastBuildDate><atom:link href="https://yufantianzhou.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>cpp</title>
-      <link>https://yufantianzhou.github.io/categories/cpp/</link>
-      <pubDate>Mon, 02 Sep 2024 20:54:41 +0800</pubDate>
-      
-      <guid>https://yufantianzhou.github.io/categories/cpp/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-cn</language><atom:link href="https://yufantianzhou.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
